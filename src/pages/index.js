@@ -4,9 +4,10 @@ import Header from "./components/header"
 export default function Home() {
   return (
     <div>
-      Let's practise some CI
       <br />
       <Header />
+      <p>Let's practise some CI</p>
+      <p>This is a new line</p>
     </div>
   )
 }
